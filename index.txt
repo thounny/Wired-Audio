@@ -93,7 +93,7 @@ Each time a digital asset is purchased or sold, Lain donates a percentage
 
 # footer
 
-alt = pod logo
+alt = Wired logo
 
 Follow us on
 
