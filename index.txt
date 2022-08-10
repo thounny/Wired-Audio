@@ -45,7 +45,7 @@ SONOS Wireless HiFi
 Each time a digital asset is purchased or sold, Lain is donates a percentage
 
 alt = circle audio waveform
-alt = pod app
+alt = wired app
 
 Samsung Multiroom
 Each time a digital asset is purchased or sold, Lain is donates a percentage
